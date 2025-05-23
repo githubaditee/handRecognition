@@ -1,2 +1,1 @@
 # handRecognition
-Hand Recognition
